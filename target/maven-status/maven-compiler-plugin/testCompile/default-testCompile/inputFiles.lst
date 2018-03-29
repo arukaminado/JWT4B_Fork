@@ -1,0 +1,9 @@
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestTokens.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestAuthorizationDetection.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestCustomJWTDecoder.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestSetCookieDetection.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestCookieDetection.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestPostDetection.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestJWTValidCheck.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestAlgorithmLinker.java
+/Users/ascemama/Projects/BurpProjects/JWT4B/test/app/TestBodyDetection.java
